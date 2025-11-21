@@ -1,10 +1,13 @@
-                              [**ata**](https://enzos.atabook.org/)
+<p align="center">
+  <a href="https://enzos.atabook.org/"><strong>ATA</strong></a>
+</p>
 
-
-
-
-
-![image alt](https://i.pinimg.com/736x/f7/6f/31/f76f31bc8a338ba3fe437b646d5ed98c.jpg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=enzos&label=Stalkers&style=flat-square" alt="Stalkers"/>
+</p>
+<p align="center">
+  <img src="https://i.pinimg.com/736x/f7/6f/31/f76f31bc8a338ba3fe437b646d5ed98c.jpg" alt="ATA Image" width="300"/>
+</p>
 <!--
 
 **S0ULSN1PER/S0ULSN1PER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
