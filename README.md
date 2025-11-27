@@ -3,9 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=enzos&label=Stalkers&style=flat-square" alt="Stalkers"/>
-</p>
-<p align="center">
   <img src="https://i.pinimg.com/736x/f7/6f/31/f76f31bc8a338ba3fe437b646d5ed98c.jpg" alt="ATA Image" width="300"/>
 </p>
 <!--
